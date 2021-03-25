@@ -3,4 +3,4 @@
  - `index.html` can be viewed from https://unikjl.github.io/mypages/.
 
 ## My Gist
- - https://gist.github.com/unikjl
+ - My Julia codes are available at https://gist.github.com/unikjl. 
