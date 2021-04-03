@@ -13,4 +13,5 @@ Julia language
 
 Fractals
  - [Wikipedia:Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)
+ - [https://iquilezles.org/www/articles/palettes/palettes.htm](https://iquilezles.org/www/articles/palettes/palettes.htm)
  - [Wolfram:CosColorFunction](https://resources.wolframcloud.com/FunctionRepository/resources/CosColorFunction/)
